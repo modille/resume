@@ -13,6 +13,8 @@ show_downloads: false
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
+gems:
+  - github-pages
 exclude:
   - Gemfile
   - Gemfile.lock
