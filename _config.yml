@@ -1,10 +1,10 @@
 # Site settings
-title: Matt Odille
-description: Matt Odille is a pragmatic software engineer interested in using the right technologies to develop smart and well-written software that helps people.
+title: "Matt Odille"
+description: "Matt Odille is a pragmatic software engineer interested in using the right technologies to develop smart and well-written software that helps people."
 
 # URL settings
-url: "https://modille.github.io"
-baseurl: "/resume"
+url: "http://mattodille.com"
+baseurl: ""
 
 # GitHub Pages settings
 google_analytics: UA-93271269-1
