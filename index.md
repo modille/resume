@@ -110,10 +110,10 @@ references:
     feature development. Matt is an asset to his team and to UPMC Enterprises.
 - name: Chris F. (Engineering Manager, Google)
   reference: Matt is a role model in many areas. He is a solid software
-  engineer with exceptional technical abilities and he regularly hits his
-  delivery dates with a high degree of quality. Matt tackled an obscure
-  technology to address many quality issues with a fielded product. Matt dove
-  into the technology, learned it, understood it and delivered. He has stood
-  out on the team as a leader. People look up to him to perform code reviews
-  and help with difficult problems.
+    engineer with exceptional technical abilities and he regularly hits his
+    delivery dates with a high degree of quality. Matt tackled an obscure
+    technology to address many quality issues with a fielded product. Matt dove
+    into the technology, learned it, understood it and delivered. He has stood
+    out on the team as a leader. People look up to him to perform code reviews
+    and help with difficult problems.
 {% endhighlight %}
