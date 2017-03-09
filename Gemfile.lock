@@ -208,8 +208,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 127)
-  jekyll-feed (~> 0.6)
-  json
   rubocop (~> 0.47)
 
 RUBY VERSION

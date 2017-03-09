@@ -26,7 +26,6 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'github-pages', versions['github-pages']
-  gem 'jekyll-feed', '~> 0.6'
 end
 
 group :development do
